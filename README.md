@@ -1,4 +1,6 @@
+<p align="center"> 
 moni_sin(x).py
+</p> 
 
 使用五次多项式线性回归模型拟合sin(x)。
 
@@ -10,7 +12,9 @@ moni_sin(x).py
 
 实际应用时应使用成熟的库来提高计算效率。
 
+<p align="center"> 
 housing_pre.py
+</p> 
 
 使用三次多项式线性回归模型预测波士顿房价。
 
